@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yahya
 - 👀 I’m interested in machine learning and feature engineering
 - 🌱 I’m currently learning AI, deep learning, predictive analytics and data mining
-- 💞️ I’m looking to collaborate on any projects related to the above-mentioned fields
+- 🤝 I’m looking to collaborate on any projects related to the above-mentioned fields
 - 📫 How to reach me... yahyalyubi@gmail.com
